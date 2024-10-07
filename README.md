@@ -39,7 +39,8 @@ This repository is a collection of competitive programming and technical intervi
 
 ```bash
    git clone https://github.com/yourusername/haskell-competitive-programming
-   cd haskell-competitive-programming```
+   cd haskell-competitive-programming
+```
 
 2. **Choose a problem** from one of the difficulty categories.
 
@@ -49,12 +50,14 @@ To compile and run a file:
 
 ```bash
    ghc ProblemName.hs
-   ./ProblemName```
+   ./ProblemName
+```
 
 Or, run it in ghci:
 
 ```bash
-    ghci ProblemName.hs```
+    ghci ProblemName.hs
+```
 
 4. **Modify and Experiment*: You are encouraged to modify the solutions, experiment with different test cases, and try alternative approaches.
 
