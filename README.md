@@ -38,8 +38,8 @@ This repository is a collection of competitive programming and technical intervi
 1. **Clone the repository**
 
 ```bash
-   git clone https://github.com/yourusername/haskell-competitive-programming
-   cd haskell-competitive-programming
+   git clone https://github.com/Turtel216/Haskell-Problem-Solving
+   cd Haskell-Problem-Solving
 ```
 
 2. **Choose a problem** from one of the difficulty categories.
@@ -59,7 +59,7 @@ Or, run it in ghci:
     ghci ProblemName.hs
 ```
 
-4. **Modify and Experiment*: You are encouraged to modify the solutions, experiment with different test cases, and try alternative approaches.
+4. **Modify and Experiment**: You are encouraged to modify the solutions, experiment with different test cases, and try alternative approaches.
 
 <a name="#prerequisites">
 
