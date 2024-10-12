@@ -1,7 +1,5 @@
 # Haskell-Problem-Solving
 
-Welcome to the Competitive Programming and Interview Problems in Haskell repository! 🎉
-
 This repository is a collection of competitive programming and technical interview problems, along with their solutions written in Haskell. The problems are categorized based on their difficulty levels to help you progressively enhance your skills in Haskell.
 
 ## Table of Contents
@@ -24,6 +22,8 @@ This repository is a collection of competitive programming and technical intervi
 ### Easy
 
 - [FizzBuzz](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/FizzBuzz.hs)
+
+- [FizzBuzz](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/Factorials.hs)
 
 <a name="medium">
 
