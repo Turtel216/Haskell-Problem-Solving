@@ -23,6 +23,8 @@ This repository is a collection of competitive programming and technical intervi
 
 ### Easy
 
+- [FizzBuzz](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/FizzBuzz.hs)
+
 <a name="medium">
 
 ### Medium
