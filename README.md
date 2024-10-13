@@ -27,7 +27,7 @@ This repository is a collection of competitive programming and technical intervi
 
 - [Factors](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/Factors.hs)
 
-- [Balanced Parentheses](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/BalancedParentheses.hs)
+- [Balanced Parenthesis](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/BalancedParenthesis.hs)
 
 <a name="medium">
 
