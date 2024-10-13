@@ -23,7 +23,9 @@ This repository is a collection of competitive programming and technical intervi
 
 - [FizzBuzz](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/FizzBuzz.hs)
 
-- [FizzBuzz](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/Factorials.hs)
+- [Factorials](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/Factorials.hs)
+
+- [Factors](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/Factors.hs)
 
 <a name="medium">
 
