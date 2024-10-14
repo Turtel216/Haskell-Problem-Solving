@@ -33,6 +33,8 @@ This repository is a collection of competitive programming and technical intervi
 
 ### Medium
 
+- [NQueens](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/MEDIUM/NQueens.hs)
+
 <a name="hard">
 
 ### Hard
