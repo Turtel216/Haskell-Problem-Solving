@@ -29,6 +29,15 @@ This repository is a collection of competitive programming and technical intervi
 
 - [Balanced Parenthesis](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/BalancedParenthesis.hs)
 
+- [EliminateConsecutive Duplicates](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/EliminateConsecutiveDuplicates.hs)
+
+
+- [Odd Divisors](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/OddDivisors.hs)
+
+- [Reverser List](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/ReverseList.hs)
+
+- [Palindrome](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/Palindrome.hs)
+
 <a name="medium">
 
 ### Medium
