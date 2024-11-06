@@ -25,18 +25,23 @@ This repository is a collection of competitive programming and technical intervi
 
 - [Factorials](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/Factorials.hs)
 
+- [Simple Array Sum](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/SimpleArraySum.hs)
+
 - [Factors](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/Factors.hs)
 
 - [Balanced Parenthesis](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/BalancedParenthesis.hs)
 
 - [Eliminate Consecutive Duplicates](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/EliminateConsecutiveDuplicates.hs)
 
-
 - [Odd Divisors](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/OddDivisors.hs)
 
 - [Reverser List](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/ReverseList.hs)
 
 - [Palindrome](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/Palindrome.hs)
+
+- [Apple and Oranges](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/AppleAndOranges.hs)
+
+- [Grading Students](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/GradingStudents.hs)
 
 <a name="medium">
 
