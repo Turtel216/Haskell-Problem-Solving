@@ -45,6 +45,8 @@ This repository is a collection of competitive programming and technical intervi
 
 - [Get Middle](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/GetMiddle.hs)
 
+- [Between Two Sets](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/BetweenTwoSets.hs)
+
 <a name="medium">
 
 ### Medium
