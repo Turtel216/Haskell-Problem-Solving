@@ -3,7 +3,7 @@
  -
  - You can read the full problem state here: https://www.hackerrank.com/challenges/apple-and-orange/problem
  -
- - NOTE: This only does not run in GHCI, only on hacker rank
+ - NOTE: This does not run in GHCI, only on hacker rank
  -
 -}
 
