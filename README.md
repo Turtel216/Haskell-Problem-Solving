@@ -43,6 +43,8 @@ This repository is a collection of competitive programming and technical intervi
 
 - [Grading Students](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/GradingStudents.hs)
 
+- [Get Middle](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/GetMiddle.hs)
+
 <a name="medium">
 
 ### Medium
