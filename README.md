@@ -47,6 +47,10 @@ This repository is a collection of competitive programming and technical intervi
 
 - [Between Two Sets](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/BetweenTwoSets.hs)
 
+- [Breaking The Records](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/BreakingTheRecords.hs)
+
+- [Kangaroo](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/Kangaroo.hs)
+
 <a name="medium">
 
 ### Medium
