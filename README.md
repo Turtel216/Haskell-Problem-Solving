@@ -51,6 +51,10 @@ This repository is a collection of competitive programming and technical intervi
 
 - [Kangaroo](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/Kangaroo.hs)
 
+- [Sales By Match](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/SalesByMatch.hs)
+
+- [Day Of The Programmer](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/DayOfTheProgrammer.hs)
+
 <a name="medium">
 
 ### Medium
