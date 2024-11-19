@@ -55,6 +55,9 @@ This repository is a collection of competitive programming and technical intervi
 
 - [Day Of The Programmer](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/DayOfTheProgrammer.hs)
 
+- [Bill Division](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/BillDivision.hs)
+
+
 <a name="medium">
 
 ### Medium
