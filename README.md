@@ -65,7 +65,7 @@ This repository is a collection of competitive programming and technical intervi
 
 - [Birthday Cake Candles](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/BirthdayCakeCandles.hs)
 
-- [Diagonal Difference](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/DiagonalDiffrence.hs)
+- [Diagonal Difference](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/DiagonalDifference.hs)
 
 <a name="medium">
 
