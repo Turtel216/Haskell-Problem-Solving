@@ -63,6 +63,10 @@ This repository is a collection of competitive programming and technical intervi
 
 - [Electronics Shop](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/ElectronicsShop.hs)
 
+- [Birthday Cake Candles](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/BirthdayCakeCandles.hs)
+
+- [Diagonal Difference](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/ElectronicsShop.hs)
+
 <a name="medium">
 
 ### Medium
