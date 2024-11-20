@@ -57,6 +57,11 @@ This repository is a collection of competitive programming and technical intervi
 
 - [Bill Division](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/BillDivision.hs)
 
+- [Counting Valleys](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/CountingValleys.hs)
+
+- [Drawing Boolk](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/DrawingBook.hs)
+
+- [Electronics Shop](https://github.com/Turtel216/Haskell-Problem-Solving/blob/main/EASY/ElectronicsShop.hs)
 
 <a name="medium">
 
